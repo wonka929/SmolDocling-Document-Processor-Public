@@ -14,8 +14,8 @@ SmolDocling Document Processor is a lightweight application that processes docum
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/bibekplus/SmolDocling-Document-Processor.git
-cd SmolDocling-Document-Processor
+git clone https://github.com/wonka929/SmolDocling-Document-Processor-Public.git
+cd SmolDocling-Document-Processor-Public
 ```
 
 2. Install dependencies.
